@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3899-angles-of-a-triangle](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/3899-angles-of-a-triangle/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
