@@ -59,4 +59,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
