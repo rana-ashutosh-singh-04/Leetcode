@@ -93,4 +93,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
