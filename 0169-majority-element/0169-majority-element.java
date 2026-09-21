@@ -1,17 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        // Moore voting Algorithm
-        int  candidate = 0; 
-        int lead = 0;
-        for(int num:nums){
-            if(lead==0){
-              candidate = num ;
-            }
-            if(num == candidate){
-                lead++;
-            }else{
-                lead--;
-            }
-        } return candidate;
+       HashMap<Integer,Integer> hmap = new HashMap<>();
+
+       for(int i=0; i<nums.length; i++){
+        hmap.put(nums[i],hmap.getOrDefault(nums[i],0)+1);
+       }
+
+       for(int key: hmap.keySet()){
+        if(hmap.get(key)>nums.length/2){
+            return key;
+        }
+       }
+       return -1;
     }
 }
