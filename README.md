@@ -62,6 +62,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
@@ -72,6 +73,15 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
