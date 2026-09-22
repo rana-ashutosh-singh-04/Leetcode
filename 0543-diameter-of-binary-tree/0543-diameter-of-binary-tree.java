@@ -28,7 +28,8 @@ class Solution {
 
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        heightOfsubTree(root);
+        if(root==null) return 0;
+        int ht =  heightOfsubTree(root);
         return maxDia-1;
     }
 }
