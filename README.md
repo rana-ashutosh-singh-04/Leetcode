@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
