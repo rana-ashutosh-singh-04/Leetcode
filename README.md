@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -16,6 +17,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -119,5 +121,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
