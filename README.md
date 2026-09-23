@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/3899-angles-of-a-triangle/) | Medium |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
