@@ -97,6 +97,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
