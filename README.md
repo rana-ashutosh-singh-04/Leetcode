@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1200-minimum-absolute-difference](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
