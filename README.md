@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
