@@ -99,6 +99,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,11 +152,13 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
