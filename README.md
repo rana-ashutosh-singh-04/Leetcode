@@ -17,6 +17,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0997-find-the-town-judge](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -75,6 +76,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0997-find-the-town-judge](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2965-find-missing-and-repeated-values](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 |  |
@@ -174,6 +176,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Ternary Search
