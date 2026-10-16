@@ -174,6 +174,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Ternary Search
 |  |
