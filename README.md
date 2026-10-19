@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -195,6 +198,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0451-sort-characters-by-frequency) |
