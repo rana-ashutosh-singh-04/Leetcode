@@ -76,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,4 +246,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
