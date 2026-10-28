@@ -1,51 +1,35 @@
 class Solution {
-    HashSet<Integer> hSetA = new HashSet<>();
-    HashSet<Integer> hSetB = new HashSet<>();
 
-    public boolean canBeDivideInto2Sets(int idx, int[][] graph){
+    public boolean isGraphBipartite(int src, int[][]graph, int color[]){
         Queue<Integer> q = new LinkedList<>();
-
-        q.add(idx);
-        hSetA.add(idx);
+        q.offer(src);
+        color[src]=0;
 
         while(!q.isEmpty()){
-            int currNode = q.remove();
-            HashSet<Integer> nextSet;
-            HashSet<Integer> currSet;
-            if(hSetA.contains(currNode)){
-               nextSet = hSetB;
-               currSet = hSetA;
-            }else{
-               nextSet = hSetA;
-               currSet = hSetB;
-            }
-            int arr[] = graph[currNode];
-
-            for(int i=0 ; i<arr.length; i++){
-                int curr = arr[i];
-                
-                if(currSet.contains(curr)){
-                 return false;
+            int curr = q.poll();
+            for(int neighbour: graph[curr]){
+                if(color[neighbour]==-1){
+                    color[neighbour]= 1-color[curr];
+                    q.offer(neighbour);
+                }else if(color[neighbour]!=(1-color[curr])){
+                    return false;
                 }
-
-                if(!hSetA.contains(curr)&&!hSetB.contains(curr)){
-                    nextSet.add(curr);
-                    q.add(curr);
-                }
-                
             }
         }
+
         return true;
-        
     }
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
 
+        int color[] = new int[n];
+
+        Arrays.fill(color,-1);
         for(int i=0; i<n; i++){
-            if(!hSetA.contains(i)&& !hSetB.contains(i)){
-               if(canBeDivideInto2Sets(i,graph)==false){
-                return false;
-               }
+            if(color[i]==-1){
+                if(!isGraphBipartite(i,graph,color)){
+                    return false;
+                }
             }
         }
         return true;
