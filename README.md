@@ -151,6 +151,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -160,6 +161,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -258,4 +261,16 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rana-ashutosh-singh-04/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
