@@ -1,40 +1,43 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] pre) {
 
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+    public boolean dfs(int src,boolean[] vis, ArrayList<ArrayList<Integer>> adj ,Set<Integer> topoSort){
+
+        if(vis[src]==true){
+            if(topoSort.contains(src)) return false;
+            else return true;
+        }
+        vis[src]=true;
+        for(int neighbour: adj.get(src)){
+            boolean cycle = dfs(neighbour,vis,adj,topoSort);
+            if(cycle==true)return true;
+        }
+
+        topoSort.add(src);
+        return false;
+    }
+    public boolean canFinish(int numCourses, int[][] pre) {
         
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         for(int i=0; i<numCourses; i++){
             adj.add(new ArrayList<>());
         }
-        int inOrder[] = new int[numCourses];
 
-        for(int i=0; i<pre.length; i++){
-                adj.get(pre[i][1]).add(pre[i][0]);
-                inOrder[pre[i][0]]++;
-        }
+       
+      for(int[] edges: pre){
+        adj.get(edges[0]).add(edges[1]);
+       }
+        
 
-        Queue<Integer> q = new LinkedList<>();
+        Set<Integer> topoSort = new LinkedHashSet<>();
+        boolean vis[] = new boolean[numCourses];
 
-        for(int i=0; i<inOrder.length; i++){
-            if(inOrder[i]==0){
-                q.add(i);
-            }
-        }
-        int count =0;
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            count++;
-            for(int neighbour:adj.get(node)){
-                inOrder[neighbour]--;
-
-                if(inOrder[neighbour]==0){
-                    q.add(neighbour);
-                }
+        for(int src =0; src<numCourses; src++){
+            if(vis[src]==false){
+                boolean cycle = dfs(src, vis,adj,topoSort);
+                if(cycle==true)return false;
             }
         }
 
-        return count  == numCourses;
-
+        return true;
     }
 }
